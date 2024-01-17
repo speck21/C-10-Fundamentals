@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KY8DnwuF4KA0LVeuPYMDoyBxjz5O7uIMIHwSMlrqOZGSOw4N5ZQaly4F5hX1p5QyolgHe56D1hOm6tMyHBVi0w==",
+  "success": true,
+  "projectFilePath": "D:\\Dropbox\\Work\\PluralSight\\c-sharp-10-fundamentals\\Demos\\m13\\start\\BethanysPieShopHRM\\BethanysPieShopHRM\\BethanysPieShopHRM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gill\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
